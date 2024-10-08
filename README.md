@@ -1,7 +1,7 @@
-## Hi there 👋 It's me HariHaran
+## Hi there 👋 It's me Kamalesh
 
 Student @ Government College of Engineering - Thanjavur
-<img heigh## Hi there 👋 It's me HariHaran
+<img heigh## Hi there 👋 It's me Kamalesh
 
 Student @ Government College of Engineering - Thanjavur
 <img height="270" width="45%" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d54a1057572253.59db80b99c3b5.jpg"/>                                               
@@ -24,12 +24,12 @@ Student @ Government College of Engineering - Thanjavur
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Tuf Gaming-A15-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=hariharan-somasundharam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/><img width="47%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=tokyonight&hide_border=true"/>
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=SKamalesh23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/><img width="47%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=tokyonight&hide_border=true"/>
 
 
-<br />  [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-somasundharam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br />  [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SKamalesh23&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=hariharan_somasundharam)](https://auth.geeksforgeeks.org/user/hariharan_somasundharam/practice/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=hariharan_somasundharam)](https://auth.geeksforgeeks.org/user/SKamalesh23/practice/)
 
 <!---
 SKamalesh23/SKamalesh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
