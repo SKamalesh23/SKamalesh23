@@ -27,9 +27,9 @@ Student @ Government College of Engineering - Thanjavur
 <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=SKamalesh23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/><img width="47%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=tokyonight&hide_border=true"/>
 
 
-<br />  [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SKamalesh23&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br />  [!Kamalesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SKamalesh23&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=hariharan_somasundharam)](https://auth.geeksforgeeks.org/user/SKamalesh23/practice/)
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=kamaleshsgtz7)](https://auth.geeksforgeeks.org/user/SKamalesh23/practice/)
 
 <!---
 SKamalesh23/SKamalesh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
